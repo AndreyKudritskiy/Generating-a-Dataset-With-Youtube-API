@@ -1,2 +1,6 @@
 # Generating-a-Dataset-With-Youtube-API
 Using Youtube V3 RESTful API to generate a dataset 
+
+Soon to be update with:
+* X/Twitter API
+* Meta API
