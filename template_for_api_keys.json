@@ -1,0 +1,9 @@
+{
+    "_title":"This is a template to fill in with your own API Keys/Tokens",
+    
+    "twitter":   "INSERT API KEY/TOKEN HERE",
+    "youtube":   "INSERT API KEY/TOKEN HERE",
+    "meta":      "INSERT API KEY/TOKEN HERE",
+    "linkedin":  "INSERT API KEY/TOKEN HERE",
+    "wikipedia": "INSERT API KEY/TOKEN HERE"
+}
